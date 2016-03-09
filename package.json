@@ -1,0 +1,20 @@
+{
+  "name": "mongoose-pokemons",
+  "version": "0.0.1",
+  "description": "CRUD completo de pokemons",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "mongoose",
+    "CRUD",
+    "webschool"
+  ],
+  "author": "Francisco",
+  "license": "WTFPL",
+  "dependencies": {
+    "mongoose": "^4.4.5"
+  }
+}
